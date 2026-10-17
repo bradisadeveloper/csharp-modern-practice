@@ -1,0 +1,6 @@
+# Learning Log
+
+## Week 1 (Oct 12–16, 2026)
+**Done:** installed .NET 10, cleaned up GitHub, made a repo, fixed my first rejected push, opened and merged my first PR, built a console app with a NuGet package.
+**Hardest part:** the non-fast-forward push error and the broken editor setting. Fixed both.
+**Next week:** modern C# (records, pattern matching, nullable, LINQ).
